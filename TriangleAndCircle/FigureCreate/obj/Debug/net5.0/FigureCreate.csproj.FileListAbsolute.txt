@@ -1,0 +1,12 @@
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\bin\Debug\net5.0\FigureCreate.deps.json
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\bin\Debug\net5.0\FigureCreate.dll
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\bin\Debug\net5.0\ref\FigureCreate.dll
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\bin\Debug\net5.0\FigureCreate.pdb
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\obj\Debug\net5.0\FigureCreate.csproj.AssemblyReference.cache
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\obj\Debug\net5.0\FigureCreate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\obj\Debug\net5.0\FigureCreate.AssemblyInfoInputs.cache
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\obj\Debug\net5.0\FigureCreate.AssemblyInfo.cs
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\obj\Debug\net5.0\FigureCreate.csproj.CoreCompileInputs.cache
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\obj\Debug\net5.0\FigureCreate.dll
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\obj\Debug\net5.0\ref\FigureCreate.dll
+D:\Repos\dotnet-works\TriangleAndCircle\FigureCreate\obj\Debug\net5.0\FigureCreate.pdb

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SquareCalculate.UI/1.0.0": {
+        "dependencies": {
+          "ConsoleInput": "1.0.0",
+          "FigureCreate": "1.0.0"
+        },
+        "runtime": {
+          "SquareCalculate.UI.dll": {}
+        }
+      },
+      "ConsoleInput/1.0.0": {
+        "runtime": {
+          "ConsoleInput.dll": {}
+        }
+      },
+      "FigureCreate/1.0.0": {
+        "runtime": {
+          "FigureCreate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SquareCalculate.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleInput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigureCreate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

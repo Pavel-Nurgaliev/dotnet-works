@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2b6fd96-bce6-478f-b779-0a0f70195abd": {
+      "ProjectGuid": "b2b6fd96-bce6-478f-b779-0a0f70195abd",
+      "DisplayName": "SquareCalculate.UI",
+      "ColorIndex": 0
+    },
+    "83831bf3-48ef-4dae-a644-dfd9e25c87db": {
+      "ProjectGuid": "83831bf3-48ef-4dae-a644-dfd9e25c87db",
+      "DisplayName": "FigureCreator",
+      "ColorIndex": 1
+    },
+    "84311990-70da-4b79-a34c-fc56bd93a367": {
+      "ProjectGuid": "84311990-70da-4b79-a34c-fc56bd93a367",
+      "DisplayName": "ConsoleInput",
+      "ColorIndex": 2
+    },
+    "2b6d8fb8-d8b3-487b-969d-7c1360e1fc17": {
+      "ProjectGuid": "2b6d8fb8-d8b3-487b-969d-7c1360e1fc17",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "d736bbc6-ff82-407c-9118-2f4747d8a59d": {
+      "ProjectGuid": "d736bbc6-ff82-407c-9118-2f4747d8a59d",
+      "DisplayName": "Figure.Tests",
+      "ColorIndex": 4
+    },
+    "bffde1e8-92b2-4401-9630-f2a1b5ba5f22": {
+      "ProjectGuid": "bffde1e8-92b2-4401-9630-f2a1b5ba5f22",
+      "DisplayName": "FigureCreator",
+      "ColorIndex": 5
+    },
+    "1a3c18d0-0455-4c2b-bf3a-bbe8e5089715": {
+      "ProjectGuid": "1a3c18d0-0455-4c2b-bf3a-bbe8e5089715",
+      "DisplayName": "FigureCreate",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,12 @@
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\bin\Debug\net5.0\ConsoleInventationInput.deps.json
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\bin\Debug\net5.0\ConsoleInventationInput.dll
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\bin\Debug\net5.0\ref\ConsoleInventationInput.dll
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\bin\Debug\net5.0\ConsoleInventationInput.pdb
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\obj\Debug\net5.0\ConsoleInventationInput.csproj.AssemblyReference.cache
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\obj\Debug\net5.0\ConsoleInventationInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\obj\Debug\net5.0\ConsoleInventationInput.AssemblyInfoInputs.cache
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\obj\Debug\net5.0\ConsoleInventationInput.AssemblyInfo.cs
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\obj\Debug\net5.0\ConsoleInventationInput.csproj.CoreCompileInputs.cache
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\obj\Debug\net5.0\ConsoleInventationInput.dll
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\obj\Debug\net5.0\ref\ConsoleInventationInput.dll
+D:\Repos\NetLab_PavelNurgaliev\CSharp\02_BasicCoding\ConsoleInventationInput\obj\Debug\net5.0\ConsoleInventationInput.pdb
