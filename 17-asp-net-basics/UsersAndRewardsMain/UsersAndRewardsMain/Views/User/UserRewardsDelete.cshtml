@@ -1,0 +1,13 @@
+﻿@using Entities;
+@model UsersRewards;
+@{
+    ViewData["Title"] = "UserRewardsDelete";
+}
+
+<h1>Вы действительно хотите удалить награду у пользователя?</h1>
+
+<form asp-action="UserRewardDeleteAccess">
+    <input type="hidden" value="@Model" name="userReward" />
+    <button type="submit" class="btn btn-success">Да</button>
+    <a asp-action="Users" class="btn btn-success">Нет</a>
+</form>

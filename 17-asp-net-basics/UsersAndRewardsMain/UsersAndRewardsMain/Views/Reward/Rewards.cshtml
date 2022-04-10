@@ -1,0 +1,49 @@
+﻿@using Entities;
+@model List<Reward>;
+
+@{
+    ViewData["Title"] = "Rewards";
+}
+
+<h1>Награды</h1>
+<table>
+    <tbody>
+        <tr>
+            <td>ID</td>
+            <td>Наименование</td>
+            <td>Описание</td>
+            <td>Действия</td>
+        </tr>
+
+        @foreach (var reward in Model)
+        {
+            <tr>
+                <td>@reward.ID</td>
+                <td>@reward.Title</td>
+                <td>@reward.Description</td>
+                <td class=" dropdown">
+                    <button type="button" class="btn text-black dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Действия
+                    </button>
+                    <span class="caret"></span>
+                    <div class="dropdown-menu">
+                        <form asp-action="DeleteReward">
+                            <input type="hidden" value="@reward.ID" name="rewardID" />
+
+                            <button type="submit" class="btn">Удалить</button>
+                        </form>
+                        <form asp-action="GetThisReward">
+                            <input type="hidden" value="@reward.ID" name="rewardID" />
+
+                            <button type="submit" class="btn">Изменить</button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<form asp-action="AddNewReward">
+    <input type="hidden" />
+    <button type="submit" class="btn btn-primary text-light" style="margin-top: 10px"> Добавить новую награду</button>
+</form>

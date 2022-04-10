@@ -1,0 +1,28 @@
+﻿@using Entities;
+@model List<UsersRewards>
+@{
+    ViewData["Title"] = "TakeRewardUser";
+}
+
+<h1>Удаление награды пользователя</h1>
+
+
+
+<ul>
+    <p>Список наград</p>
+    @foreach (var userRewards in @Model)
+    {
+        <li>@userRewards.RewardId:@userRewards.RewardTitle</li>
+    }
+    <form asp-action="UserRewardsDelete">
+        <div>
+            <label>Введите номер награды</label>
+            <input type="text" name="rewardID" />
+        </div>
+        <div>
+            <input type="hidden" value="@Model[0].UserId" name="userID" />
+        </div>
+        <button type="submit" class="btn btn-success">Принять</button>
+        <a asp-action="Users" class="btn btn-danger">Назад</a>
+    </form>
+</ul>

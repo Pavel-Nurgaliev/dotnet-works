@@ -1,0 +1,8 @@
+﻿@using UsersAndRewardsMain.Models.ModelView;
+@model UserEditViewModel;
+@{
+    ViewData["Title"] = "EditUser";
+}
+<h1>Пользователь @Model.FirstName @Model.LastName успешно изменен</h1>
+<p><a asp-action="Users" class="btn btn-secondary">Вернуться обратно</a></p>
+

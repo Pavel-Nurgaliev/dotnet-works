@@ -1,0 +1,29 @@
+﻿@using UsersAndRewardsMain.Models.ModelView;
+@model UserEditViewModel;
+@{
+    ViewData["Title"] = "GetThisUser";
+}
+
+
+<h1>Редактирование пользователя</h1>
+<form asp-action="EditUser">
+    <div>
+        <input asp-for="ID" type="hidden" />
+    </div>
+    <div>
+        <label>Введите имя пользователя:</label>
+        <input asp-for="FirstName" />
+    </div>
+    <div>
+        <label>Введите фамилию пользователя:</label>
+        <input asp-for="LastName" />
+    </div>
+    <div>
+        <label>Введите дату рождения пользователя</label>
+        <input asp-for="Bithdaydate" type="date" />
+    </div>
+    <button type="submit" class="btn btn-success">Принять</button>
+    <a class="btn btn-danger" asp-area="" asp-controller="User" asp-action="Users">
+        Назад
+    </a>
+</form>

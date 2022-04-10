@@ -1,0 +1,6 @@
+
+
+CREATE PROC deleteUser(@UserID INT) AS 
+	SELECT ID FROM Users
+	DELETE FROM Users WHERE ID=@UserID
+	

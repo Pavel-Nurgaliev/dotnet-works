@@ -1,0 +1,18 @@
+﻿@using Entities;
+@model List<UsersRewards>;
+@{
+    ViewData["Title"] = "ShowAllUserRewards";
+}
+
+<h1>Награды пользователя</h1>
+
+
+
+<ul>
+    <p>Список наград</p>
+    @foreach (var userRewards in @Model)
+    {
+        <li>@userRewards.RewardId:@userRewards.RewardTitle</li>
+    }
+    <a asp-action="Users" class="btn btn-danger">Назад</a>
+</ul>

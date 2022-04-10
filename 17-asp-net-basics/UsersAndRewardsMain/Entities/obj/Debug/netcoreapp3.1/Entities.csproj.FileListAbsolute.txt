@@ -1,0 +1,10 @@
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\Repos\dotnet-courses-2021-2\17-asp-net-basics\UsersAndRewardsMain\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

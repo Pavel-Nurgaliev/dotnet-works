@@ -1,0 +1,24 @@
+﻿@using UsersAndRewardsMain.Models.ModelView;
+@model RewardEditViewModel;
+@{
+    ViewData["Title"] = "GetThisReward";
+}
+
+<h1>Редактирование награды</h1>
+<form asp-action="EditReward">
+    <div>
+        <input asp-for="ID" type="hidden" />
+    </div>
+    <div>
+        <label>Введите наименование награды:</label>
+        <input asp-for="Title" />
+    </div>
+    <div>
+        <label>Введите описание награды:</label>
+        <input asp-for="Description" />
+    </div>
+    <button type="submit" class="btn btn-success">Принять</button>
+    <a class="btn btn-danger" asp-area="" asp-controller="Reward" asp-action="Rewards">
+        Назад
+    </a>
+</form>

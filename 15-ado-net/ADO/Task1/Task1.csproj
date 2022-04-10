@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Entities\Entities.csproj" />
+		<ProjectReference Include="..\UsersAndRewardsBL\UsersAndRewardsBL.csproj" />
+		<ProjectReference Include="..\UsersAndRewardsDAL\UsersAndRewardsDAL.csproj" />
+		<ProjectReference Include="..\UsersAndRewardsSQL\UsersAndRewardsSQL.csproj" />
+	</ItemGroup>
+
+</Project>

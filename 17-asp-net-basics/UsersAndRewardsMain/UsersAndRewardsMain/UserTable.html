@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Пользователи</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>Пользователи и награды</header>
+    <main>
+        <nav class="menu-list">
+            <ul>
+                <li class="menu-list-item">
+                    <a href="Main.html">Главная</a>
+                </li>
+                <li class="menu-list-item menu-list-item--selected">
+                    <span>
+                        Данные
+                    </span>
+                    <ul class="menu-sublist">
+                        <li class="menu-list-item">
+                            <a href="UserTable.html" target="_blank">Пользователи</a>
+                        </li>
+                        <li class="menu-list-item">
+                            <a href="RewardTable.html" target="_blank">Награды</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-list-item">
+                    <a href="Instruction.html">Инструкция</a>
+                </li>
+                <li class="menu-list-item">
+                    <a href="About.html">О сайте</a>
+                </li>
+            </ul>
+        </nav>
+        <content>
+            <h1>Список пользователей</h1>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>ID</td>
+                        <td>Имя</td>
+                        <td>Фамилия</td>
+                        <td>Дата рождения</td>
+                        <td>Возраст</td>
+                        <td>Награды</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="RewardOfUser.html">список</a></td>
+                    </tr>
+                </tbody>
+            </table>
+            <form>
+                <p>
+                    <label>Введите ID пользователя:</label>
+                    <input type="number" min="0" style="position:absolute; left:30%" />
+                </p>
+                <p>
+                    <label>Введите имя пользователя:</label>
+                    <input type="text" style="position:absolute; left:30%" />
+                </p>
+                <p>
+                    <label>Введите фамилию пользователя:</label>
+                    <input type="text" style="position:absolute; left:30%" />
+                </p>
+
+                <p>
+                    <label>Введите дату рождения пользователя</label>
+                    <input type="date" style="position:absolute; left:30%" />
+                </p>
+                <p>
+                    <label>Введите ID награды</label>
+                    <input type="number" min="0" style="position:absolute; left:30%" />
+                </p>
+            </form>
+            <ul class="list-control-data">
+                <li class="list-control-data-item">
+
+                    <input type="button" value="Добавить пользователя"
+                           style="margin-left: -10px;" />
+
+                </li>
+
+
+                <li class="list-control-data-item">
+
+                    <input type="submit" value="Обновить данные о пользователе"
+                           style="margin-left: -10px;" />
+
+
+                </li>
+
+                <li class="list-control-data-item">
+
+                    <input type="button" value="Удалить пользователя"
+                           style="margin-left: -10px;" />
+
+                </li>
+
+                <li class="list-control-data-item">
+
+                    <input type="button" value="Наградить пользователя"
+                           style="margin-left: -10px;" />
+
+                </li>
+            </ul>
+        </content>
+    </main>
+    <footer>
+        ©Copyright
+    </footer>
+</body>
+</html>
