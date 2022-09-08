@@ -1,0 +1,16 @@
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\bin\Debug\net5.0\123131.exe
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\bin\Debug\net5.0\123131.deps.json
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\bin\Debug\net5.0\123131.runtimeconfig.json
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\bin\Debug\net5.0\123131.runtimeconfig.dev.json
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\bin\Debug\net5.0\123131.dll
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\bin\Debug\net5.0\ref\123131.dll
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\bin\Debug\net5.0\123131.pdb
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\123131.csproj.AssemblyReference.cache
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\123131.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\123131.AssemblyInfoInputs.cache
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\123131.AssemblyInfo.cs
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\123131.csproj.CoreCompileInputs.cache
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\123131.dll
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\ref\123131.dll
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\123131.pdb
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\123131\obj\Debug\net5.0\123131.genruntimeconfig.cache

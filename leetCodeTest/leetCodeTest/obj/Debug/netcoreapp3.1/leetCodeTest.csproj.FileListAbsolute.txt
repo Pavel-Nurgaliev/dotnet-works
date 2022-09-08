@@ -1,0 +1,14 @@
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\bin\Debug\netcoreapp3.1\leetCodeTest.exe
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\bin\Debug\netcoreapp3.1\leetCodeTest.deps.json
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\bin\Debug\netcoreapp3.1\leetCodeTest.runtimeconfig.json
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\bin\Debug\netcoreapp3.1\leetCodeTest.runtimeconfig.dev.json
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\bin\Debug\netcoreapp3.1\leetCodeTest.dll
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\bin\Debug\netcoreapp3.1\leetCodeTest.pdb
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\obj\Debug\netcoreapp3.1\leetCodeTest.csproj.AssemblyReference.cache
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\obj\Debug\netcoreapp3.1\leetCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\obj\Debug\netcoreapp3.1\leetCodeTest.AssemblyInfoInputs.cache
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\obj\Debug\netcoreapp3.1\leetCodeTest.AssemblyInfo.cs
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\obj\Debug\netcoreapp3.1\leetCodeTest.csproj.CoreCompileInputs.cache
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\obj\Debug\netcoreapp3.1\leetCodeTest.dll
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\obj\Debug\netcoreapp3.1\leetCodeTest.pdb
+D:\Repos\dotnet-works\leetCodeTest\leetCodeTest\obj\Debug\netcoreapp3.1\leetCodeTest.genruntimeconfig.cache

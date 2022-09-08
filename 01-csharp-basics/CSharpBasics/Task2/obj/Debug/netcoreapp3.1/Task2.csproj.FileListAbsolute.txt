@@ -1,0 +1,14 @@
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.AssemblyReference.cache
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\obj\Debug\netcoreapp3.1\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+D:\Repos\dotnet-works\01-csharp-basics\CSharpBasics\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache

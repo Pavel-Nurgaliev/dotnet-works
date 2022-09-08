@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d15fd83-1269-4a56-b36b-fc11e0d4fa75": {
+      "ProjectGuid": "3d15fd83-1269-4a56-b36b-fc11e0d4fa75",
+      "DisplayName": "leetCodeTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
