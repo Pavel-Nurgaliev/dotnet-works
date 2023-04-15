@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace WebAppRandomDigitsGenerate.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("random-digits")]
     public class RandomDigitsController : ControllerBase
     {
         private const string CacheKey = "RandomDigitsStore";
@@ -47,7 +47,7 @@ namespace WebAppRandomDigitsGenerate.Controllers
         [HttpGet]
         public IEnumerable<int> GetRandomDigitsList()
         {
-            return digitsList;
+            return (List<int>)_memoryCache.Get(CacheKey);
         }
     }
 }

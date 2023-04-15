@@ -60,16 +60,13 @@ namespace RandomDigitsGenerate
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    client.BaseAddress = new Uri(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString);
-
-                    var response = client.PostAsJsonAsync(client.BaseAddress + "RandomDigits", list).Result;
+                    var response = client.PostAsJsonAsync(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString, list).Result;
                 }
             }
             catch (AggregateException ex) when (ex.InnerException is HttpRequestException || ex.InnerException is SocketException)
             {
                 Console.WriteLine($"Нет соединения с сервером {ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString}");
             }
-
         }
     }
 }
