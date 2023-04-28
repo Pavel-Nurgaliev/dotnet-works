@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\UsersAndRewardsMain.csproj": {}
+    "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\UsersAndRewardsMain.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj": {
+    "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj",
+        "projectPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\pava-\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\obj\\",
+        "outputPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\UsersAndRewardsMain.csproj": {
+    "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\UsersAndRewardsMain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\UsersAndRewardsMain.csproj",
+        "projectUniqueName": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\UsersAndRewardsMain.csproj",
         "projectName": "UsersAndRewardsMain",
-        "projectPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\UsersAndRewardsMain.csproj",
+        "projectPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\UsersAndRewardsMain.csproj",
         "packagesPath": "C:\\Users\\pava-\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\obj\\",
+        "outputPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsMain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,11 +91,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj"
+              "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj"
               },
-              "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj": {
-                "projectPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj"
+              "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj": {
+                "projectPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj"
               }
             }
           }
@@ -128,7 +129,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -140,18 +142,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj": {
+    "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj",
+        "projectUniqueName": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj",
         "projectName": "UsersAndRewardsSQL",
-        "projectPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj",
+        "projectPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\UsersAndRewardsSQL.csproj",
         "packagesPath": "C:\\Users\\pava-\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\obj\\",
+        "outputPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\UsersAndRewardsSQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,8 +174,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj"
+              "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj"
               }
             }
           }
@@ -199,7 +201,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -208,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

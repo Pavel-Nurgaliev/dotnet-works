@@ -13,8 +13,9 @@ namespace _123131
             list.Add(parameter);
 
             DoSomething(list);
-            foreach(var elem in list)
-            Console.WriteLine(elem);
+
+            foreach (var elem in list)
+                Console.WriteLine(elem);
         }
 
         private static void DoSomething(List<string> list) => list.Add("123");

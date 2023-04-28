@@ -6,20 +6,21 @@ namespace Task1
     {
         static void Main()
         {
-            Console.WriteLine("Hello, dear user!\nThis project presents solution for colcolate area of rectangle");
+            Console.WriteLine("Hello, dear user!\nThis project presents solution for calculate area of rectangle");
             while (true)
             {
                 Console.WriteLine("So, write length: ");
-                string ax = Console.ReadLine();
+                string sideAxStr = Console.ReadLine();
+
                 Console.WriteLine("write width: ");
-                string bx = Console.ReadLine();
+                string sideBxStr = Console.ReadLine();
                 try
                 {
-                    int a = int.Parse(ax);
-                    int b = int.Parse(bx);
-                    if (a > 0 && b > 0)
+                    int sideAx = int.Parse(sideAxStr);
+                    int sideBx = int.Parse(sideBxStr);
+                    if (sideAx > 0 && sideBx > 0)
                     {
-                        Console.WriteLine($"{a * b}");
+                        Console.WriteLine($"{sideAx * sideBx}");
                         break;
                     }
                     else

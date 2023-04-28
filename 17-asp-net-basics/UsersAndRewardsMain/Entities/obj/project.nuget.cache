@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j1HH1RiEkNhXf+LQqJUcQLO/qh4/I1VypBrrR0+rS6wxY9ePYkNN9J97nrsgd1PD7WVaV1q1eOBTtdshdbvilw==",
+  "dgSpecHash": "azJcXqIgY4VexMWYoKbIYXlTO9/KO/j+AjXWtGF72L5g0XFOEW2q6uIj1TGxbeMaq9pHYyjxWY9/3J0Y7BWWkg==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\dotnet-courses-2021-2\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj",
+  "projectFilePath": "D:\\Repos\\dotnet-works\\17-asp-net-basics\\UsersAndRewardsMain\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

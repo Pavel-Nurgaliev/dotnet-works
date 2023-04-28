@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link href="@Url.Content("~/css/style-body.css")" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <header>
+        <a>LOGO</a>
+        <a>Categories</a>
+        <a>Search...</a>
+        <a>LOGIN</a>
+    </header>
+    <div>
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div>
+            <p>&copy; @FooterInfo.CompanyName</p>
+            <p>by @FooterInfo.DeveloperName</p>
+        </div>
+    </footer>
+</body>
+</html>
