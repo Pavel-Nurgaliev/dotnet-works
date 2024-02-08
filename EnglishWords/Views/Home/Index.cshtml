@@ -1,0 +1,15 @@
+﻿@model PrinterWordsModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p><a asp-controller="Home" asp-action="GetEnglishWords">English</a></p>
+    <p><a asp-controller="Home" asp-action="GetRussianWords">Russian</a></p>
+    @if (Model is not null)
+        @foreach (var m in Model.Words)
+        {
+            <p>@m</p>
+        }
+</div>

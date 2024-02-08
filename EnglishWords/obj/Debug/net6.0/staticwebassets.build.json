@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "l6uULaK+MLsj2LhabALlz7PCVgWkRJbtTPWVsPw7nVA=",
+  "Source": "EnglishWords",
+  "BasePath": "_content/EnglishWords",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EnglishWords\\wwwroot",
+      "Source": "EnglishWords",
+      "ContentRoot": "D:\\Repos\\dotnet-works\\EnglishWords\\wwwroot\\",
+      "BasePath": "_content/EnglishWords",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Repos\\dotnet-works\\EnglishWords\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnglishWords.styles.css",
+      "SourceId": "EnglishWords",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Repos\\dotnet-works\\EnglishWords\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/EnglishWords",
+      "RelativePath": "EnglishWords.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Repos\\dotnet-works\\EnglishWords\\obj\\Debug\\net6.0\\scopedcss\\bundle\\EnglishWords.styles.css"
+    },
+    {
+      "Identity": "D:\\Repos\\dotnet-works\\EnglishWords\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnglishWords.bundle.scp.css",
+      "SourceId": "EnglishWords",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Repos\\dotnet-works\\EnglishWords\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/EnglishWords",
+      "RelativePath": "EnglishWords.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Repos\\dotnet-works\\EnglishWords\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EnglishWords.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Repos\\dotnet-works\\EnglishWords\\wwwroot\\css\\site.css",
+      "SourceId": "EnglishWords",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\dotnet-works\\EnglishWords\\wwwroot\\",
+      "BasePath": "_content/EnglishWords",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Repos\\dotnet-works\\EnglishWords\\wwwroot\\favicon.ico",
+      "SourceId": "EnglishWords",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repos\\dotnet-works\\EnglishWords\\wwwroot\\",
+      "BasePath": "_content/EnglishWords",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

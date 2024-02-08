@@ -1,0 +1,12 @@
+D:\Repos\dotnet-works\PrintWordsLibrary\bin\Debug\net6.0\PrintWordsLibrary.deps.json
+D:\Repos\dotnet-works\PrintWordsLibrary\bin\Debug\net6.0\PrintWordsLibrary.dll
+D:\Repos\dotnet-works\PrintWordsLibrary\bin\Debug\net6.0\PrintWordsLibrary.pdb
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\PrintWordsLibrary.csproj.AssemblyReference.cache
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\PrintWordsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\PrintWordsLibrary.AssemblyInfoInputs.cache
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\PrintWordsLibrary.AssemblyInfo.cs
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\PrintWordsLibrary.csproj.CoreCompileInputs.cache
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\PrintWordsLibrary.dll
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\refint\PrintWordsLibrary.dll
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\PrintWordsLibrary.pdb
+D:\Repos\dotnet-works\PrintWordsLibrary\obj\Debug\net6.0\ref\PrintWordsLibrary.dll
