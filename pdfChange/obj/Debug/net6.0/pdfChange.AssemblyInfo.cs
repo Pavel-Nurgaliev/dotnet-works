@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pdfChange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1f85ec1d5b463f4d2d4e99bff04bb17d3d1abc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("pdfChange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pdfChange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
